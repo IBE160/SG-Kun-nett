@@ -232,3 +232,24 @@ The main gap is the absence of technical architecture decisions and timeline pla
 **Key Risk**: The security requirements (encrypted storage, user authentication) are ambitious for this timeframe and may distract from core AI functionality. Consider simplifying to basic security measures (HTTPS, session management) for MVP and treating full encryption as a Phase 2 enhancement.
 
 **Recommendation**: Spend time before coding to specify the technical stack and create a detailed timeline. This planning investment will significantly increase the likelihood of delivering a complete, functional product within the deadline. The proposal is approved contingent on addressing the critical issues identified above, particularly the timeline and platform/architecture specifications.
+## User flows
+
+### Student (hovedflyt)
+1. Åpner nettsiden.
+2. Logger inn eller identifiseres som student.
+3. Velger kurs eller prosjekt.
+4. Utfører handlingen (for eksempel: leverer oppgave, ser på resultater eller bruker KI-assistent).
+5. Får tilbakemelding/resultat.
+6. Lagrer eller sender inn arbeidet.
+7. Logger ut / forlater siden.
+
+### Lærer (hovedflyt)
+1. Logger inn som lærer.
+2. Velger kurs/klasse.
+3. Ser studentenes arbeid eller innleveringer.
+4. Bruker KI-verktøy for å analysere, rette eller gi tilbakemeldinger.
+5. Sender tilbakemeldinger eller publiserer resultater.
+6. Logger ut.
+
+
+

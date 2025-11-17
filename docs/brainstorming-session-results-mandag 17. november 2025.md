@@ -1,102 +1,218 @@
-# Brainstorming Session Results
+Brainstorming Session Results
 
-**Session Date:** mandag 17. november 2025
-**Facilitator:** Strategic Business Analyst + Requirements Expert Mary
-**Participant:** BIP
+Session Date: mandag 17. november 2025
+Facilitator: Strategic Business Analyst + Requirements Expert (Mary)
+Participant: BIP
+Project: Interaktiv AI-basert portfolio
 
-## Executive Summary
+⭐ Executive Summary
 
-**Topic:** Core Features
+Topic: Core Features
+Session Goals: Brainstorm kjernefunksjoner for prosjektet Interaktiv AI-basert portfolio.
+Techniques Used: SCAMPER (Substitute, Combine, Adapt, Modify, Put to Another Use, Eliminate, Reverse)
+Total Ideas Generated: 27
 
-**Session Goals:** Brainstorm core features for the project
+Denne sesjonen identifiserte et bredt spekter av innovative funksjoner som kombinerer AI, interaktive brukeropplevelser, personalisering og automatisering. Resultatet er en tydelig retning for hvilke funksjoner som kan implementeres raskt, hvilke som krever videre utvikling, og hvilke som representerer ambisiøse, langsiktige muligheter.
 
-**Techniques Used:** {{techniques_list}}
+🎯 Key Themes Identified
 
-**Total Ideas Generated:** {{total_ideas}}
+AI-drevet innholdsgenerering og personalisering
 
-### Key Themes Identified:
+Dynamisk CV/portfolio som oppdaterer seg selv
 
-{{key_themes}}
+Interaktiv visualisering av skills, prosjekter og progresjon
 
-## Technique Sessions
+Automatisert jobbmatching og karriereanalyse
 
-{{technique_sessions}}
+Forbedret brukeropplevelse via animasjoner, microinteractions og narrativ flyt
 
-## Idea Categorization
+Økt modularitet og systemdesign for skalerbarhet
 
-### Immediate Opportunities
+Gamification og progressionssystemer
 
-_Ideas ready to implement now_
+🔧 Technique Sessions (SCAMPER Summary)
+S – Substitute
 
-{{immediate_opportunities}}
+Bytte ut statisk CV-layout med interaktiv og animert presentasjon
 
-### Future Innovations
+Erstatte manuell oppdatering med AI som automatisk genererer tekst og beskrivelser
 
-_Ideas requiring development/research_
+Erstatte tradisjonell "PDF-CV" med en levende web-basert presentasjon
 
-{{future_innovations}}
+C – Combine
 
-### Moonshots
+Kombinere AI med real-time prosjekttracking
 
-_Ambitious, transformative concepts_
+Kombinere portfolio, CV, LinkedIn-data og GitHub-data i én plattform
 
-{{moonshots}}
+Slå sammen animasjoner, interaktive dashboards og personaliserte anbefalinger
 
-### Insights and Learnings
+A – Adapt
 
-_Key realizations from the session_
+Adaptere ideer fra dashboards (Strava, Spotify Wrapped) → personlig karrierestatistikk
 
-{{insights_learnings}}
+Adapt AI-agenter (agentic workflows) for å lage nye prosjekter og skrive tekster
 
-## Action Planning
+Apply "stories" som i gaming for å vise karrierereise
 
-### Top 3 Priority Ideas
+M – Modify / Magnify / Minify
 
-#### #1 Priority: {{priority_1_name}}
+Magnify: større prosjektseksjoner, mer fokus på achievements
 
-- Rationale: {{priority_1_rationale}}
-- Next steps: {{priority_1_steps}}
-- Resources needed: {{priority_1_resources}}
-- Timeline: {{priority_1_timeline}}
+Modify: gjøre designet mer minimalistisk, smooth, og performance-optimalisert
 
-#### #2 Priority: {{priority_2_name}}
+Minify: fjerne overflødig tekst, la AI lage korte sammendrag
 
-- Rationale: {{priority_2_rationale}}
-- Next steps: {{priority_2_steps}}
-- Resources needed: {{priority_2_resources}}
-- Timeline: {{priority_2_timeline}}
+P – Put to Another Use
 
-#### #3 Priority: {{priority_3_name}}
+Bruke portfolioen som digital "business card" med QR-kode
 
-- Rationale: {{priority_3_rationale}}
-- Next steps: {{priority_3_steps}}
-- Resources needed: {{priority_3_resources}}
-- Timeline: {{priority_3_timeline}}
+Reuse data for jobbmatching
 
-## Reflection and Follow-up
+Repurpose CV-innhold til søknadstekster automatisk
 
-### What Worked Well
+E – Eliminate
 
-{{what_worked}}
+Fjerne lange manuelle beskrivelser → AI genererer alt
 
-### Areas for Further Exploration
+Eliminer side-navigasjon → bruk en guidet narrativ opplevelse
 
-{{areas_exploration}}
+Fjerne unødvendige seksjoner som ikke gir verdi
 
-### Recommended Follow-up Techniques
+R – Reverse / Rearrange
 
-{{recommended_techniques}}
+Reverse flow: Start ikke med “om meg”, men med dine beste prosjekter
 
-### Questions That Emerged
+Reverse CV-struktur til en storyline i stedet for lister
 
-{{questions_emerged}}
+Rearrange prosjekter dynamisk basert på hvem som ser portfolioen (AI-personalisering)
 
-### Next Session Planning
+🗂 Idea Categorization
+🚀 Immediate Opportunities (kan lages nå)
 
-- **Suggested topics:** {{followup_topics}}
-- **Recommended timeframe:** {{timeframe}}
-- **Preparation needed:** {{preparation}}
+Interaktiv, animert prosjektvisning
 
----
+AI-generert tekst for prosjekter og erfaring
 
-_Session facilitated using the BMAD CIS brainstorming framework_
+Dynamisk skill-visualisering
+
+Moderne UI med animasjoner og microinteractions
+
+Automatisk oppdatering av portfolio via GitHub aktivitet
+
+🔬 Future Innovations
+
+AI som analyserer jobbutlysninger og foreslår hva som bør fremheves
+
+Personlig karrieredashboard (progresjon, statistikk, growth areas)
+
+Real-time prosjektprogress tracking integrert med Notion/Trello
+
+AI-agent som skriver personaliserte søknader basert på portfolio-data
+
+🌙 Moonshots (langsiktige idéer)
+
+Fullt autonom AI-agent som vedlikeholder hele portfolioen
+
+Jobbmatch-algoritme innebygd i portfolioen din
+
+Avatar-basert 3D-presentasjon av deg selv
+
+Komplett “AI career twin” som modellerer fremtidige karrierevalg
+
+💡 Insights & Learnings
+
+Portfolioen bør være levende, ikke statisk
+
+AI bør stå i sentrum men uten å dominere brukeropplevelsen
+
+Personalisering gir enorm fordel: én portfolio → mange versjoner
+
+Interaktiv storytelling skaper mye sterkere inntrykk enn tradisjonelle CV-er
+
+Gamification kan gjøre portfolioen både minneverdig og unik
+
+🥇 Action Planning
+Top 3 Priority Ideas
+#1 Priority: AI-generert og dynamisk innhold
+
+Rationale: Dette gir umiddelbar verdi, reduserer manuell jobb og gjør portfolioen unik.
+Next steps:
+
+Integrere et enkelt AI-endpoint for tekstgenerering
+
+Lage funksjon som oppdaterer prosjekter automatisk
+Resources: Gemini API / OpenAI API
+Timeline: 1–2 uker
+
+#2 Priority: Interaktiv skill-/prosjektvisualisering
+
+Rationale: Skiller seg sterkt fra tradisjonelle CV-er og gir visuell prestisje.
+Next steps:
+
+Lage skill-dashboards, progresjonsgrafer og badges
+
+Lage animert prosjektgrid
+Resources: React + D3.js eller Framer Motion
+Timeline: 2–3 uker
+
+#3 Priority: Personaliseringsmotor
+
+Rationale: Gjør portfolioen ekstremt kraftig – én portfolio tilpasser seg hvem som ser den.
+Next steps:
+
+Lage baseline AI-profilering (hva rekrutterere ser etter)
+
+Dynamisk rekkefølge av prosjekter og skills
+Resources: AI inference + cookie/session-data
+Timeline: 3–5 uker
+
+🔍 Reflection and Follow-up
+What Worked Well
+
+SCAMPER ga bred idegenerering
+
+Klare mønstre og temaer dukket opp raskt
+
+Mange ideer er umiddelbart implementerbare
+
+Areas for Further Exploration
+
+Hvordan integrere datapipelines (GitHub, Notion, LinkedIn)
+
+Hvordan presentere AI-funksjonalitet uten at det overvelder brukeren
+
+Sketch av helhetlig arkitektur
+
+Recommended Follow-up Techniques
+
+User Journey Mapping
+
+Feature Prioritization (MoSCoW)
+
+Rapid Prototyping workshop
+
+Questions That Emerged
+
+Hvor mye skal AI styre portfolioen kontra brukeren?
+
+Hvor personalisert skal portfolioen være ut fra besøker?
+
+Skal portfolioen også fungere som jobbsøknads-verktøy?
+
+📅 Next Session Planning
+
+Suggested topics:
+
+UI/UX layout design
+
+Dataintegrasjoner
+
+Personalisering-logikk
+
+MVP scope
+
+Recommended timeframe: 1 uke
+Preparation needed: Skisser av UI + liste over teknologivalg
+
+Session facilitated using the BMAD CIS Brainstorming Framework
